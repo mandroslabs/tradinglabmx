@@ -43,3 +43,7 @@ Usar virtualenv de Python es mejor, pero para simplificar vamos a instalar globa
 ```git clone https://github.com/mandroslabs/tradinglab-mexico.git```
 
 ```python tradinglab-mexico/tradinglabmx/app.py```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ivansabik/tradinglab-mexico/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
